@@ -1,0 +1,31 @@
+{
+  "name": "com.supertactic.demopackage",
+  "displayName": "Demo Package",
+  "version": "1.0.0",
+  "description": "This is a Demo Package for the Unity Package Manager",
+  "unity": "2022.3",
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.7"
+  },
+  "author": {
+    "name": "Supertactic Studio",
+    "url": "https://douglasdasilva17.github.com/portfolio/"
+  },
+  "keywords": [
+    "demo",
+    "upm",
+    "template"
+  ],
+  "samples": [
+    {
+      "displayName": "Demo Sample 1",
+      "description": "Demonstrates a simple sample with a script",
+      "path": "Samples~/DemoSample1"
+    },
+    {
+      "displayName": "Demo Sample 2",
+      "description": "Demonstrates a simple sample with a script",
+      "path": "Samples~/DemoSample2"
+    }    
+  ]
+}
